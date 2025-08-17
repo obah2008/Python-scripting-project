@@ -13,3 +13,13 @@
 
 ### Detailed step by step Solution
 Watch full detailed guide [here](https://www.youtube.com/watch?v=dQlw1Cdd3pw&t=600s)
+
+Step one: Create a new .py file in Python-Scripting mo
+Step two: Import the modules that will be used in the script
+```python
+import os
+import json
+import shutil
+from subprocess import PIPE, run
+import sys
+```
