@@ -12,3 +12,4 @@
 - Run the compiled game file 
 
 ### Detailed step by step Solution
+Watch full detailed guide [here](https://www.youtube.com/watch?v=dQlw1Cdd3pw&t=600s)
