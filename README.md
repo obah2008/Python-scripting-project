@@ -10,3 +10,5 @@
 - Compile all of the game code to a single .py file
 
 - Run the compiled game file 
+
+### Detailed step by step Solution
